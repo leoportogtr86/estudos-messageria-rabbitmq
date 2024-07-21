@@ -395,5 +395,4 @@ S
 
 ---
 
-Este guia oferece uma abordagem completa para aprender e dominar o RabbitMQ, abrangendo desde conceitos básicos até práticas avançadas e estudos de caso reais. Boa sorte nos seus estudos!#   e s t u d o s - m e s s a g e r i a - r a b b i t m q  
- 
+Este guia oferece uma abordagem completa para aprender e dominar o RabbitMQ, abrangendo desde conceitos básicos até práticas avançadas e estudos de caso reais. Boa sorte nos seus estudos!
